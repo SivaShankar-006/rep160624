@@ -1,0 +1,17 @@
+#ECHO & SLEEP COMMAND
+
+echo "Hello Git User Enter your Name"
+read Name
+sleep 3
+echo "Welcome Git user $Name"
+
+#ADD WHILE LOOP
+
+x=9
+while [[ $x -le 12 ]]
+do 
+echo "You are studied $x std in Trichy"
+((x++))
+done 
+
+Thankyou Guys.....
